@@ -7,5 +7,31 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "equipo": [
+    {
+      "id": 1,
+      "nombre": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "puesto": "Analista Técnico de Suscripción",
+      "tel": "15-7755-2597",
+      "imagen":"team-01"
+    },
+    {
+      "id": 2,
+      "nombre": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "puesto": "Ejecutivo de Cuentas",
+      "tel": "15-5186-6737",
+      "imagen":"team-02"
+    },
+    {
+      "id": 3,
+      "nombre": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "puesto": "Gerente Comercial",
+      "tel": "15-4145-9847",
+      "imagen":"team-03"
+    }
+  ]
 }
